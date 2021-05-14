@@ -30,6 +30,8 @@ Bryan Fowler
 ## Report
 [This is a link to our project proposal.](https://github.com/experiments-in-sorting/experiments-in-sorting.github.io/blob/main/Project%20Proposal.pdf) In this document are our design norms and updated project schedule. 
 
+[This is a link to our final report.] (https://github.com/experiments-in-sorting/experiments-in-sorting.github.io/blob/main/Experiments%20in%20sorting%20-%20Final%20Report.pdf) This document contains our experiment outline, execution steps, results, and findings.
+
 
 ## Additional Resources
 [Department of Computer Science website](https://computing.calvin.edu/)
